@@ -9,3 +9,5 @@ git status
 git commit
 git commit -m 'Changed one file'
 touch .gitignore
+git branch brunch1
+git checkout brunch1
