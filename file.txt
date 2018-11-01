@@ -1,6 +1,8 @@
 git hub testing 
  notorking
 
+ tutorial link: https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1671s
+
  now did with cmd prompt and working fine
  Let's see if this changes are visible
  fd
