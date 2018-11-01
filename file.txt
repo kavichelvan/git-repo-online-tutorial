@@ -6,3 +6,5 @@ git hub testing
  now did with cmd prompt and working fine
  Let's see if this changes are visible
  fd
+
+ now new branch is added. This text should not be visible in master.
