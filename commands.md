@@ -8,3 +8,4 @@ git rm --cached index.html
 git status
 git commit
 git commit -m 'Changed one file'
+touch .gitignore
