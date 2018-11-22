@@ -15,4 +15,9 @@ git checkout brunch1
 git remote add origin https://github.com/kavichelvan/git-repo-online.git
 git push -u origin master ||  git push --set-upstream GitRepoLocal master
 
+<--changing the online git repo-->
+git remote -v
+git remote set-url origin https://github.com/kavichelvan/git-repo-online-confusion.git
+git remote -v
+
 git clone https://github.com/kavichelvan/git-repo-online-tutorial.git
