@@ -21,3 +21,21 @@ git remote set-url origin https://github.com/kavichelvan/git-repo-online-confusi
 git remote -v
 
 git clone https://github.com/kavichelvan/git-repo-online-tutorial.git
+
+----------------------------------------------------------------------------
+1) git reset head^
+2) git status
+3) git stash
+4) git checkout path1
+5) git pull
+6) git checkout pk/newbranch
+7) git rebase path1
+8) git stash apply
+9) check changes (stage changes)
+10) git commit -m "v3.2 fix"
+11) git push origin -f
+12) check your branch and PR in git
+
+git clone for tags
+------------------
+git clone --branch v2.8.0 url.git
