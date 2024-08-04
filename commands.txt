@@ -39,3 +39,8 @@ git clone https://github.com/kavichelvan/git-repo-online-tutorial.git
 git clone for tags
 ------------------
 git clone --branch v2.8.0 url.git
+
+git log --oneline
+git rebase develop
+git rebase -i HEAD~3
+git push --force-with-lease
